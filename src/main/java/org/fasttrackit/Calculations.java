@@ -2,6 +2,7 @@ package org.fasttrackit;
 
 public class Calculations {
     static void newMethod() {
+
     }
 
     public int subtraction(int a, int b) {
