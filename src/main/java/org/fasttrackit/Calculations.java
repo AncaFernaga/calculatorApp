@@ -2,8 +2,6 @@ package org.fasttrackit;
 
 public class Calculations {
     static void newMethod() {
-        int a = 2;
-        int b = 10;
     }
 
     public int subtraction(int a, int b) {
@@ -24,7 +22,7 @@ public class Calculations {
         return total;
     }
 
-    public double division(int a, int b) {
+    public double division(int a, double b) {
         double total = b / a / 0.1;
         System.out.println("The result is: " + total);
         return total;
