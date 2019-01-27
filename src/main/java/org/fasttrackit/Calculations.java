@@ -1,9 +1,7 @@
 package org.fasttrackit;
 
 public class Calculations {
-    static void newMethod() {
 
-    }
 
     public int subtraction(int a, int b) {
         int total = b - a;
@@ -39,6 +37,8 @@ public class Calculations {
         int total = ++a;
         System.out.println("The result is: " + total);
         return total;
+
+
     }
  }
 
